@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382922 -0600	branch: Created from HEAD
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 b750860979b1f706359e755928e98efaa1e6563e Lane17027 <lanenichols17027@gmail.com> 1698383019 -0600	commit: validation error handler
+b750860979b1f706359e755928e98efaa1e6563e 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698383655 -0600	commit: Add User input validation on user login backend endpoint
+40d1faec52071132f9fa088b5028b92ba0a943a0 d0e589b1ee6097e16f0edf23b7a9be3be62e796d Lane17027 <lanenichols17027@gmail.com> 1698422089 -0600	commit: hopefully fixing login
+d0e589b1ee6097e16f0edf23b7a9be3be62e796d b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698422169 -0600	commit (merge): Merge branch 'dev' into validate-login-inputs

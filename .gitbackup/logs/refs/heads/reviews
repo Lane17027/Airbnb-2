@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698516114 -0600	branch: Created from HEAD
+d695157b0e35ad04d5d9610769d5e8d485a051fc 433aaacbe2c04bdcce69fd8e9a789b0c07e50b44 Lane17027 <lanenichols17027@gmail.com> 1698516214 -0600	commit: created reviews migration/model
+433aaacbe2c04bdcce69fd8e9a789b0c07e50b44 21c6c829049f3738d6e067445e2b4185b48c29d3 Lane17027 <lanenichols17027@gmail.com> 1698605834 -0600	commit: added constraints to model/migration of reviews
+21c6c829049f3738d6e067445e2b4185b48c29d3 691390c2b3f86eaa2f588bd9dbb402a93e5f8aa8 Lane17027 <lanenichols17027@gmail.com> 1698631280 -0600	commit: fixing migrations order
+691390c2b3f86eaa2f588bd9dbb402a93e5f8aa8 dc1db6e7186b9a0bfd32ae8baedaf588520d3f0c Lane17027 <lanenichols17027@gmail.com> 1698633024 -0600	commit: created seeder for reviews

@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698513913 -0600	branch: Created from HEAD
+d695157b0e35ad04d5d9610769d5e8d485a051fc 77e2b252ef1a3923580dc3dbcd4c879a4e3fc051 Lane17027 <lanenichols17027@gmail.com> 1698514656 -0600	commit: created the bookings model/migration
+77e2b252ef1a3923580dc3dbcd4c879a4e3fc051 be33c93444f1ff20019b4e9f899a3e53b28d028f Lane17027 <lanenichols17027@gmail.com> 1698607598 -0600	commit: added constraints to model/migration, will need to add more
+be33c93444f1ff20019b4e9f899a3e53b28d028f 6a77cb554332fd86b034adb62d0989822458bfa9 Lane17027 <lanenichols17027@gmail.com> 1698631443 -0600	commit: fixing migrations order
+6a77cb554332fd86b034adb62d0989822458bfa9 787dd7fb81a4c55c997fbdf52214ec1f013ef8cb Lane17027 <lanenichols17027@gmail.com> 1698633827 -0600	commit: created seeder for bookings
+787dd7fb81a4c55c997fbdf52214ec1f013ef8cb bc5f42730dd412a4ee8ea53e7c60581fbd02e10d Lane17027 <lanenichols17027@gmail.com> 1698703767 -0600	commit: completed bookings files

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698382634 -0600	branch: Created from HEAD
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382793 -0600	commit: Add a backend endpoint to get the current user session

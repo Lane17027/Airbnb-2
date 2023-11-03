@@ -1,0 +1,46 @@
+0000000000000000000000000000000000000000 142ae6c6a525dc145a24c8feb771932a57d86b1f Lane17027 <lanenichols17027@gmail.com> 1698353710 -0600	branch: Created from HEAD
+142ae6c6a525dc145a24c8feb771932a57d86b1f 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698359659 -0600	merge auth-setup: Fast-forward
+8d71700218b76a5b7b673ffab9a8d34683897fb5 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698363225 -0600	merge login: Fast-forward
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698380945 -0600	merge logout: Fast-forward
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698381509 -0600	merge signup: Fast-forward
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382837 -0600	merge get-session: Fast-forward
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698383743 -0600	merge validate-login-inputs: Fast-forward
+40d1faec52071132f9fa088b5028b92ba0a943a0 b918293ba9f8ebcf5868401922f8d551c4486f6d Lane17027 <lanenichols17027@gmail.com> 1698385006 -0600	merge validate-signup-inputs: Fast-forward
+b918293ba9f8ebcf5868401922f8d551c4486f6d eabcc164978801b4d7ff7f90334632333fd5ef62 Lane17027 <lanenichols17027@gmail.com> 1698420886 -0600	commit: fixed log in route
+eabcc164978801b4d7ff7f90334632333fd5ef62 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698421896 -0600	merge main: Fast-forward
+4bc37c06d6b8327136a852a0edef8396f821da89 b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698422222 -0600	merge validate-login-inputs: Fast-forward
+b6c6a4962b18649e43fd92b3fca3b4c37927675e d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698428075 -0600	commit: updated seeders firstName/lastName
+d695157b0e35ad04d5d9610769d5e8d485a051fc 22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 Lane17027 <lanenichols17027@gmail.com> 1698639816 -0600	merge spots: Fast-forward
+22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 95b15b485d4234d63113a21f418aab2f08d77ed4 Lane17027 <lanenichols17027@gmail.com> 1698640269 -0600	commit: added firstName and lastName to post Route safeUser in sessions router
+95b15b485d4234d63113a21f418aab2f08d77ed4 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698643358 -0600	commit: fixed seeders/migrations options object and bulkCreate for Spots table
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d b10612085511a3e494ad2a94f734c17776d5cfab Lane17027 <lanenichols17027@gmail.com> 1698644225 -0600	commit: fixing cypress on dev
+b10612085511a3e494ad2a94f734c17776d5cfab dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 Lane17027 <lanenichols17027@gmail.com> 1698644684 -0600	commit: fixing down function of user seeders
+dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 Lane17027 <lanenichols17027@gmail.com> 1698645179 -0600	commit: blah
+b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 1879bda5fa9c0ecfe2ff6ff4c504e366b356f76e Lane17027 <lanenichols17027@gmail.com> 1698689011 -0600	commit (merge): merging spot image to dev
+1879bda5fa9c0ecfe2ff6ff4c504e366b356f76e 1ac1d7fa8947fb6a48a36c9353a46aa50b699437 Lane17027 <lanenichols17027@gmail.com> 1698696162 -0600	commit: filling out spot seeders
+1ac1d7fa8947fb6a48a36c9353a46aa50b699437 cffe6b4b634a41fc00600bc90919c1ed3cff5b18 Lane17027 <lanenichols17027@gmail.com> 1698696994 -0600	commit: fixing plural/ownder on dev
+cffe6b4b634a41fc00600bc90919c1ed3cff5b18 d4682dc224ea32420b67fdc24a2277240e39da06 Lane17027 <lanenichols17027@gmail.com> 1698697119 -0600	commit (merge): merging reviews to dev
+d4682dc224ea32420b67fdc24a2277240e39da06 8bd13e46377257289cef82740905ffac05ac5d77 Lane17027 <lanenichols17027@gmail.com> 1698698495 -0600	commit: hopefully completed all files for reviews
+8bd13e46377257289cef82740905ffac05ac5d77 afbc6163fd60be7ee5ffde76e0336a895a6e15ed Lane17027 <lanenichols17027@gmail.com> 1698700721 -0600	commit (merge): merging reviewImages to dev
+afbc6163fd60be7ee5ffde76e0336a895a6e15ed eb597f8c261f7e844638131f99d4e8385903899d Lane17027 <lanenichols17027@gmail.com> 1698703861 -0600	commit (merge): merging bookings to dev
+eb597f8c261f7e844638131f99d4e8385903899d e6806af3d091d7d5c67a967a040cb0ee5a718e46 Lane17027 <lanenichols17027@gmail.com> 1698706762 -0600	commit: fixing the start and end date validoators on dev
+e6806af3d091d7d5c67a967a040cb0ee5a718e46 e6059a397615576fa8abe17690871085630e8d77 Lane17027 <lanenichols17027@gmail.com> 1698707110 -0600	commit: added isDate validator
+e6059a397615576fa8abe17690871085630e8d77 da535d2f99d4495c1ffe4391b6873d2d9e416e79 Lane17027 <lanenichols17027@gmail.com> 1698726556 -0600	commit: added the associations for User
+da535d2f99d4495c1ffe4391b6873d2d9e416e79 b7714281aa8177c55ce5a1f05a2f802500f7d53d Lane17027 <lanenichols17027@gmail.com> 1698727075 -0600	commit: more user associations
+b7714281aa8177c55ce5a1f05a2f802500f7d53d 314d3b3157287fa53df5882f50a12195f45bf13c Lane17027 <lanenichols17027@gmail.com> 1698729629 -0600	commit: all the associations hopefully
+314d3b3157287fa53df5882f50a12195f45bf13c 8589853b6382f25ac44e31ef7391aca1701055f8 Lane17027 <lanenichols17027@gmail.com> 1698730426 -0600	commit: more migration fixes
+8589853b6382f25ac44e31ef7391aca1701055f8 cb61ad92387d5f3e4a6471b30927ff27d446260c Lane17027 <lanenichols17027@gmail.com> 1698774345 -0600	commit: added all skeleton routers
+cb61ad92387d5f3e4a6471b30927ff27d446260c 3238ada7d5b9993b10354ca2cead7a17c3f47435 Lane17027 <lanenichols17027@gmail.com> 1698790159 -0600	commit: worked on Get all Reviews of the Current User and Add an Image to a Review based on the Reviews id
+3238ada7d5b9993b10354ca2cead7a17c3f47435 bc35dff08294c78cad7242b301315f6c592b0675 Lane17027 <lanenichols17027@gmail.com> 1698819391 -0600	commit: mother of god I completed the Get all Spots owned by the Current User route
+bc35dff08294c78cad7242b301315f6c592b0675 3177a1ed0cccc0673511671e4c3f12346b52172d Lane17027 <lanenichols17027@gmail.com> 1698857797 -0600	commit: almost finished review
+3177a1ed0cccc0673511671e4c3f12346b52172d 16d03130a72b43c70d93df85aa03cda432a5ab37 Lane17027 <lanenichols17027@gmail.com> 1698857817 -0600	commit: idk
+16d03130a72b43c70d93df85aa03cda432a5ab37 cbc9e8c5139053358c5c3f0bd0412dcdede750e4 Lane17027 <lanenichols17027@gmail.com> 1698862181 -0600	commit: refactored get all current users spots
+cbc9e8c5139053358c5c3f0bd0412dcdede750e4 3f61b5233cc57200b98dbab5a7f1d1daf0e9bcc0 Lane17027 <lanenichols17027@gmail.com> 1698864573 -0600	commit: more changes to reviews
+3f61b5233cc57200b98dbab5a7f1d1daf0e9bcc0 b23a51f90b7b04137187c1e775513445ae7d5912 Lane17027 <lanenichols17027@gmail.com> 1698879144 -0600	commit: just workin on spots
+b23a51f90b7b04137187c1e775513445ae7d5912 7152bd5072ab9893c774231a58144acef83819dc Lane17027 <lanenichols17027@gmail.com> 1698895399 -0600	commit: more spots route stuff
+7152bd5072ab9893c774231a58144acef83819dc 2178ae88b811838d5d1f233bc61daf36e2460614 Lane17027 <lanenichols17027@gmail.com> 1698897293 -0600	commit: finsihed edit a spot
+2178ae88b811838d5d1f233bc61daf36e2460614 80f01a950ce8299a4d19eacdf9f66a97112ec336 Lane17027 <lanenichols17027@gmail.com> 1698902240 -0600	commit: more spots finished
+80f01a950ce8299a4d19eacdf9f66a97112ec336 04792abe26449bbe2cfd987202437811bef2ea5f Lane17027 <lanenichols17027@gmail.com> 1698949475 -0600	merge main: Fast-forward
+04792abe26449bbe2cfd987202437811bef2ea5f 3eedfccdf92537628e03e20b73060acf15e150c6 Lane17027 <lanenichols17027@gmail.com> 1698951752 -0600	commit: Completed Get all Bookings for a Spot based on the Spots id
+3eedfccdf92537628e03e20b73060acf15e150c6 4a7ed95bfbeaf1600fc9c9ddb2f9058a3e1dbbe0 Lane17027 <lanenichols17027@gmail.com> 1698953252 -0600	commit: completed delete a review Image route
+4a7ed95bfbeaf1600fc9c9ddb2f9058a3e1dbbe0 aebf00d0ddc0acae8f3c72d4ceb8521d12aa761e Lane17027 <lanenichols17027@gmail.com> 1698975916 -0600	commit: hopefully finished!!!!!!!!!

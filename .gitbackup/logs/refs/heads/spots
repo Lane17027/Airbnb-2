@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698514713 -0600	branch: Created from HEAD
+d695157b0e35ad04d5d9610769d5e8d485a051fc b49180eca73eb39fb57574a3564561a1fc55d4f2 Lane17027 <lanenichols17027@gmail.com> 1698515335 -0600	commit: created spots model/migrations
+b49180eca73eb39fb57574a3564561a1fc55d4f2 fca4f3961ce38ad3f9ce24067d6a228368349efe Lane17027 <lanenichols17027@gmail.com> 1698604950 -0600	commit: added constraints to model/migration
+fca4f3961ce38ad3f9ce24067d6a228368349efe 40d9a5e2f77eef96fb5c42283c1e25e2d6342596 Lane17027 <lanenichols17027@gmail.com> 1698631044 -0600	commit: doing migrations in order
+40d9a5e2f77eef96fb5c42283c1e25e2d6342596 8482923615ee12180ced199149fc923f06c34594 Lane17027 <lanenichols17027@gmail.com> 1698632421 -0600	commit: created spot seeder
+8482923615ee12180ced199149fc923f06c34594 8f2f84b6f4adcf8e1b066a8575bd7efac351cfe5 Lane17027 <lanenichols17027@gmail.com> 1698638764 -0600	commit: completed seeders test cases for spots
+8f2f84b6f4adcf8e1b066a8575bd7efac351cfe5 22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 Lane17027 <lanenichols17027@gmail.com> 1698639147 -0600	commit: fixed the downtable for seeders
+22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698643476 -0600	merge dev: Fast-forward
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d 6c24214e75cdb7dffb24f7e644b1233b280d30bd Lane17027 <lanenichols17027@gmail.com> 1698644182 -0600	commit: got rid of cyrpess type bullshit
+6c24214e75cdb7dffb24f7e644b1233b280d30bd e44d76fae48cd5836fabcc391309eef5da2f4fcf Lane17027 <lanenichols17027@gmail.com> 1698646623 -0600	commit: commenting references out on spot

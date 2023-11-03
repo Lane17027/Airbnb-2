@@ -1,0 +1,267 @@
+0000000000000000000000000000000000000000 b5bb196d7882aee2c5a021771a5010dfa1b61661 Lane17027 <lanenichols17027@gmail.com> 1698268897 -0600	commit (initial): Initial commit
+b5bb196d7882aee2c5a021771a5010dfa1b61661 8389378675848f8ee9b24f1cb0e93976affedb34 Lane17027 <lanenichols17027@gmail.com> 1698272209 -0600	commit: Initialize Express and Sequelize with CSRF protection
+8389378675848f8ee9b24f1cb0e93976affedb34 781bc93d2fc9fb03d1f41377e5fac24813ffb402 Lane17027 <lanenichols17027@gmail.com> 1698273383 -0600	commit: Add and API router
+781bc93d2fc9fb03d1f41377e5fac24813ffb402 142ae6c6a525dc145a24c8feb771932a57d86b1f Lane17027 <lanenichols17027@gmail.com> 1698273643 -0600	commit: Add error-handling middleware for common errors and debugging
+142ae6c6a525dc145a24c8feb771932a57d86b1f 142ae6c6a525dc145a24c8feb771932a57d86b1f Lane17027 <lanenichols17027@gmail.com> 1698353710 -0600	checkout: moving from main to dev
+142ae6c6a525dc145a24c8feb771932a57d86b1f 142ae6c6a525dc145a24c8feb771932a57d86b1f Lane17027 <lanenichols17027@gmail.com> 1698353855 -0600	checkout: moving from dev to auth-setup
+142ae6c6a525dc145a24c8feb771932a57d86b1f ada1a3ecc1de741734fd4e0d38b14bff73ba1416 Lane17027 <lanenichols17027@gmail.com> 1698355543 -0600	commit: Add Users table migration and seeds
+ada1a3ecc1de741734fd4e0d38b14bff73ba1416 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698359581 -0600	commit: Add User authentication Express middleware
+8d71700218b76a5b7b673ffab9a8d34683897fb5 142ae6c6a525dc145a24c8feb771932a57d86b1f Lane17027 <lanenichols17027@gmail.com> 1698359617 -0600	checkout: moving from auth-setup to dev
+142ae6c6a525dc145a24c8feb771932a57d86b1f 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698359659 -0600	merge auth-setup: Fast-forward
+8d71700218b76a5b7b673ffab9a8d34683897fb5 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698362046 -0600	checkout: moving from dev to dev
+8d71700218b76a5b7b673ffab9a8d34683897fb5 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698362057 -0600	checkout: moving from dev to login
+8d71700218b76a5b7b673ffab9a8d34683897fb5 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698363154 -0600	commit: Add User login backend endpoint
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698363191 -0600	checkout: moving from login to dev
+8d71700218b76a5b7b673ffab9a8d34683897fb5 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698363225 -0600	merge login: Fast-forward
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698363552 -0600	checkout: moving from dev to dev
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698363561 -0600	checkout: moving from dev to logout
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698377034 -0600	checkout: moving from logout to dev
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698377049 -0600	checkout: moving from dev to logout
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698377742 -0600	checkout: moving from logout to auth-setup
+8d71700218b76a5b7b673ffab9a8d34683897fb5 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698377766 -0600	checkout: moving from auth-setup to logout
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 8d71700218b76a5b7b673ffab9a8d34683897fb5 Lane17027 <lanenichols17027@gmail.com> 1698377783 -0600	checkout: moving from logout to auth-setup
+8d71700218b76a5b7b673ffab9a8d34683897fb5 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698377992 -0600	checkout: moving from auth-setup to dev
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698378009 -0600	checkout: moving from dev to logout
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698378908 -0600	checkout: moving from logout to logout
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698380900 -0600	commit: Add User logout backend endpoint
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 13fb2971e09a63f136839e11076e2e0fb1a7bcc9 Lane17027 <lanenichols17027@gmail.com> 1698380932 -0600	checkout: moving from logout to dev
+13fb2971e09a63f136839e11076e2e0fb1a7bcc9 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698380945 -0600	merge logout: Fast-forward
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698380981 -0600	checkout: moving from dev to dev
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698380997 -0600	checkout: moving from dev to signup
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698381395 -0600	checkout: moving from signup to dev
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698381433 -0600	checkout: moving from dev to signup
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698381461 -0600	commit: Add User signup backend endpoint
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 Lane17027 <lanenichols17027@gmail.com> 1698381485 -0600	checkout: moving from signup to dev
+b2ec3308623cb0ac59fd9abb38eeb210c0b49a31 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698381509 -0600	merge signup: Fast-forward
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698382625 -0600	checkout: moving from dev to dev
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698382634 -0600	checkout: moving from dev to get-session
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382793 -0600	commit: Add a backend endpoint to get the current user session
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 5239a3c9a26c441a7012f4e28b34b90ed6f0c07c Lane17027 <lanenichols17027@gmail.com> 1698382823 -0600	checkout: moving from get-session to dev
+5239a3c9a26c441a7012f4e28b34b90ed6f0c07c ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382837 -0600	merge get-session: Fast-forward
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382905 -0600	checkout: moving from dev to dev
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698382922 -0600	checkout: moving from dev to validate-login-inputs
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 b750860979b1f706359e755928e98efaa1e6563e Lane17027 <lanenichols17027@gmail.com> 1698383019 -0600	commit: validation error handler
+b750860979b1f706359e755928e98efaa1e6563e 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698383655 -0600	commit: Add User input validation on user login backend endpoint
+40d1faec52071132f9fa088b5028b92ba0a943a0 ef6a221f72bc9aea59f1f3fee0860016e51d7265 Lane17027 <lanenichols17027@gmail.com> 1698383723 -0600	checkout: moving from validate-login-inputs to dev
+ef6a221f72bc9aea59f1f3fee0860016e51d7265 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698383743 -0600	merge validate-login-inputs: Fast-forward
+40d1faec52071132f9fa088b5028b92ba0a943a0 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698383843 -0600	checkout: moving from dev to validate-signup-inputs
+40d1faec52071132f9fa088b5028b92ba0a943a0 b918293ba9f8ebcf5868401922f8d551c4486f6d Lane17027 <lanenichols17027@gmail.com> 1698384953 -0600	commit: Add User input validation on user signup backend endpoint
+b918293ba9f8ebcf5868401922f8d551c4486f6d 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698384988 -0600	checkout: moving from validate-signup-inputs to dev
+40d1faec52071132f9fa088b5028b92ba0a943a0 b918293ba9f8ebcf5868401922f8d551c4486f6d Lane17027 <lanenichols17027@gmail.com> 1698385006 -0600	merge validate-signup-inputs: Fast-forward
+b918293ba9f8ebcf5868401922f8d551c4486f6d eabcc164978801b4d7ff7f90334632333fd5ef62 Lane17027 <lanenichols17027@gmail.com> 1698420886 -0600	commit: fixed log in route
+eabcc164978801b4d7ff7f90334632333fd5ef62 b918293ba9f8ebcf5868401922f8d551c4486f6d Lane17027 <lanenichols17027@gmail.com> 1698420941 -0600	checkout: moving from dev to validate-signup-inputs
+b918293ba9f8ebcf5868401922f8d551c4486f6d eabcc164978801b4d7ff7f90334632333fd5ef62 Lane17027 <lanenichols17027@gmail.com> 1698420965 -0600	checkout: moving from validate-signup-inputs to dev
+eabcc164978801b4d7ff7f90334632333fd5ef62 142ae6c6a525dc145a24c8feb771932a57d86b1f Lane17027 <lanenichols17027@gmail.com> 1698421338 -0600	checkout: moving from dev to main
+142ae6c6a525dc145a24c8feb771932a57d86b1f eabcc164978801b4d7ff7f90334632333fd5ef62 Lane17027 <lanenichols17027@gmail.com> 1698421351 -0600	merge dev: Fast-forward
+eabcc164978801b4d7ff7f90334632333fd5ef62 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698421746 -0600	commit: root package JSON
+4bc37c06d6b8327136a852a0edef8396f821da89 eabcc164978801b4d7ff7f90334632333fd5ef62 Lane17027 <lanenichols17027@gmail.com> 1698421773 -0600	checkout: moving from main to dev
+eabcc164978801b4d7ff7f90334632333fd5ef62 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698421782 -0600	checkout: moving from dev to main
+4bc37c06d6b8327136a852a0edef8396f821da89 eabcc164978801b4d7ff7f90334632333fd5ef62 Lane17027 <lanenichols17027@gmail.com> 1698421856 -0600	checkout: moving from main to dev
+eabcc164978801b4d7ff7f90334632333fd5ef62 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698421896 -0600	merge main: Fast-forward
+4bc37c06d6b8327136a852a0edef8396f821da89 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698421987 -0600	checkout: moving from dev to validate-login-inputs
+40d1faec52071132f9fa088b5028b92ba0a943a0 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698422039 -0600	reset: moving to HEAD
+40d1faec52071132f9fa088b5028b92ba0a943a0 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698422050 -0600	checkout: moving from validate-login-inputs to dev
+4bc37c06d6b8327136a852a0edef8396f821da89 40d1faec52071132f9fa088b5028b92ba0a943a0 Lane17027 <lanenichols17027@gmail.com> 1698422062 -0600	checkout: moving from dev to validate-login-inputs
+40d1faec52071132f9fa088b5028b92ba0a943a0 d0e589b1ee6097e16f0edf23b7a9be3be62e796d Lane17027 <lanenichols17027@gmail.com> 1698422089 -0600	commit: hopefully fixing login
+d0e589b1ee6097e16f0edf23b7a9be3be62e796d b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698422169 -0600	commit (merge): Merge branch 'dev' into validate-login-inputs
+b6c6a4962b18649e43fd92b3fca3b4c37927675e 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698422204 -0600	checkout: moving from validate-login-inputs to dev
+4bc37c06d6b8327136a852a0edef8396f821da89 b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698422222 -0600	merge validate-login-inputs: Fast-forward
+b6c6a4962b18649e43fd92b3fca3b4c37927675e 4bc37c06d6b8327136a852a0edef8396f821da89 Lane17027 <lanenichols17027@gmail.com> 1698422245 -0600	checkout: moving from dev to main
+4bc37c06d6b8327136a852a0edef8396f821da89 b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698422249 -0600	merge dev: Fast-forward
+b6c6a4962b18649e43fd92b3fca3b4c37927675e b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698426396 -0600	checkout: moving from main to dev
+b6c6a4962b18649e43fd92b3fca3b4c37927675e b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698426433 -0600	checkout: moving from dev to main
+b6c6a4962b18649e43fd92b3fca3b4c37927675e b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698426671 -0600	checkout: moving from main to dev
+b6c6a4962b18649e43fd92b3fca3b4c37927675e d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698428075 -0600	commit: updated seeders firstName/lastName
+d695157b0e35ad04d5d9610769d5e8d485a051fc b6c6a4962b18649e43fd92b3fca3b4c37927675e Lane17027 <lanenichols17027@gmail.com> 1698428097 -0600	checkout: moving from dev to main
+b6c6a4962b18649e43fd92b3fca3b4c37927675e d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698428101 -0600	merge dev: Fast-forward
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698513897 -0600	checkout: moving from main to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698513913 -0600	checkout: moving from dev to bookings
+d695157b0e35ad04d5d9610769d5e8d485a051fc 77e2b252ef1a3923580dc3dbcd4c879a4e3fc051 Lane17027 <lanenichols17027@gmail.com> 1698514656 -0600	commit: created the bookings model/migration
+77e2b252ef1a3923580dc3dbcd4c879a4e3fc051 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698514661 -0600	checkout: moving from bookings to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698514713 -0600	checkout: moving from dev to spots
+d695157b0e35ad04d5d9610769d5e8d485a051fc b49180eca73eb39fb57574a3564561a1fc55d4f2 Lane17027 <lanenichols17027@gmail.com> 1698515335 -0600	commit: created spots model/migrations
+b49180eca73eb39fb57574a3564561a1fc55d4f2 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698515357 -0600	checkout: moving from spots to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc b49180eca73eb39fb57574a3564561a1fc55d4f2 Lane17027 <lanenichols17027@gmail.com> 1698515365 -0600	checkout: moving from dev to spots
+b49180eca73eb39fb57574a3564561a1fc55d4f2 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698515377 -0600	checkout: moving from spots to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698515417 -0600	checkout: moving from dev to reviewImages
+d695157b0e35ad04d5d9610769d5e8d485a051fc c7d9f58153f442d1a3bf379d48383143a6c56431 Lane17027 <lanenichols17027@gmail.com> 1698515960 -0600	commit: created reviewImages model/migrations
+c7d9f58153f442d1a3bf379d48383143a6c56431 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698515966 -0600	checkout: moving from reviewImages to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698516114 -0600	checkout: moving from dev to reviews
+d695157b0e35ad04d5d9610769d5e8d485a051fc 433aaacbe2c04bdcce69fd8e9a789b0c07e50b44 Lane17027 <lanenichols17027@gmail.com> 1698516214 -0600	commit: created reviews migration/model
+433aaacbe2c04bdcce69fd8e9a789b0c07e50b44 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698516220 -0600	checkout: moving from reviews to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698516250 -0600	checkout: moving from dev to spotImages
+d695157b0e35ad04d5d9610769d5e8d485a051fc cf23c580c7b758fe2dc5926c75d436d379ec327e Lane17027 <lanenichols17027@gmail.com> 1698516424 -0600	commit: created SpotImages model/migration
+cf23c580c7b758fe2dc5926c75d436d379ec327e d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698516427 -0600	checkout: moving from spotImages to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698601127 -0600	checkout: moving from dev to users
+d695157b0e35ad04d5d9610769d5e8d485a051fc ddc1d103bcde5b042c40fd74aac0385ff10dde0b Lane17027 <lanenichols17027@gmail.com> 1698601492 -0600	commit: added constraints to model/migrations on user
+ddc1d103bcde5b042c40fd74aac0385ff10dde0b d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698601496 -0600	checkout: moving from users to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc b49180eca73eb39fb57574a3564561a1fc55d4f2 Lane17027 <lanenichols17027@gmail.com> 1698601502 -0600	checkout: moving from dev to spots
+b49180eca73eb39fb57574a3564561a1fc55d4f2 fca4f3961ce38ad3f9ce24067d6a228368349efe Lane17027 <lanenichols17027@gmail.com> 1698604950 -0600	commit: added constraints to model/migration
+fca4f3961ce38ad3f9ce24067d6a228368349efe d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698604962 -0600	checkout: moving from spots to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc fca4f3961ce38ad3f9ce24067d6a228368349efe Lane17027 <lanenichols17027@gmail.com> 1698604970 -0600	checkout: moving from dev to spots
+fca4f3961ce38ad3f9ce24067d6a228368349efe d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698604978 -0600	checkout: moving from spots to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 433aaacbe2c04bdcce69fd8e9a789b0c07e50b44 Lane17027 <lanenichols17027@gmail.com> 1698605377 -0600	checkout: moving from dev to reviews
+433aaacbe2c04bdcce69fd8e9a789b0c07e50b44 21c6c829049f3738d6e067445e2b4185b48c29d3 Lane17027 <lanenichols17027@gmail.com> 1698605834 -0600	commit: added constraints to model/migration of reviews
+21c6c829049f3738d6e067445e2b4185b48c29d3 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698605851 -0600	checkout: moving from reviews to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 77e2b252ef1a3923580dc3dbcd4c879a4e3fc051 Lane17027 <lanenichols17027@gmail.com> 1698605857 -0600	checkout: moving from dev to bookings
+77e2b252ef1a3923580dc3dbcd4c879a4e3fc051 be33c93444f1ff20019b4e9f899a3e53b28d028f Lane17027 <lanenichols17027@gmail.com> 1698607598 -0600	commit: added constraints to model/migration, will need to add more
+be33c93444f1ff20019b4e9f899a3e53b28d028f d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698627962 -0600	checkout: moving from bookings to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc fca4f3961ce38ad3f9ce24067d6a228368349efe Lane17027 <lanenichols17027@gmail.com> 1698630793 -0600	checkout: moving from dev to spots
+fca4f3961ce38ad3f9ce24067d6a228368349efe 40d9a5e2f77eef96fb5c42283c1e25e2d6342596 Lane17027 <lanenichols17027@gmail.com> 1698631044 -0600	commit: doing migrations in order
+40d9a5e2f77eef96fb5c42283c1e25e2d6342596 cf23c580c7b758fe2dc5926c75d436d379ec327e Lane17027 <lanenichols17027@gmail.com> 1698631071 -0600	checkout: moving from spots to spotImages
+cf23c580c7b758fe2dc5926c75d436d379ec327e 96928b7ac923a256e45298b617f09acf7c3f9870 Lane17027 <lanenichols17027@gmail.com> 1698631179 -0600	commit: fixing migrations order
+96928b7ac923a256e45298b617f09acf7c3f9870 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698631186 -0600	checkout: moving from spotImages to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 21c6c829049f3738d6e067445e2b4185b48c29d3 Lane17027 <lanenichols17027@gmail.com> 1698631200 -0600	checkout: moving from dev to reviews
+21c6c829049f3738d6e067445e2b4185b48c29d3 691390c2b3f86eaa2f588bd9dbb402a93e5f8aa8 Lane17027 <lanenichols17027@gmail.com> 1698631280 -0600	commit: fixing migrations order
+691390c2b3f86eaa2f588bd9dbb402a93e5f8aa8 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698631286 -0600	checkout: moving from reviews to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc c7d9f58153f442d1a3bf379d48383143a6c56431 Lane17027 <lanenichols17027@gmail.com> 1698631303 -0600	checkout: moving from dev to reviewImages
+c7d9f58153f442d1a3bf379d48383143a6c56431 2ac058076d07f8bc61de5e96f4cb91482a41420e Lane17027 <lanenichols17027@gmail.com> 1698631353 -0600	commit: fixing migrations order
+2ac058076d07f8bc61de5e96f4cb91482a41420e d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698631361 -0600	checkout: moving from reviewImages to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc be33c93444f1ff20019b4e9f899a3e53b28d028f Lane17027 <lanenichols17027@gmail.com> 1698631374 -0600	checkout: moving from dev to bookings
+be33c93444f1ff20019b4e9f899a3e53b28d028f 6a77cb554332fd86b034adb62d0989822458bfa9 Lane17027 <lanenichols17027@gmail.com> 1698631443 -0600	commit: fixing migrations order
+6a77cb554332fd86b034adb62d0989822458bfa9 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698631492 -0600	checkout: moving from bookings to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 40d9a5e2f77eef96fb5c42283c1e25e2d6342596 Lane17027 <lanenichols17027@gmail.com> 1698631534 -0600	checkout: moving from dev to spots
+40d9a5e2f77eef96fb5c42283c1e25e2d6342596 8482923615ee12180ced199149fc923f06c34594 Lane17027 <lanenichols17027@gmail.com> 1698632421 -0600	commit: created spot seeder
+8482923615ee12180ced199149fc923f06c34594 96928b7ac923a256e45298b617f09acf7c3f9870 Lane17027 <lanenichols17027@gmail.com> 1698632493 -0600	checkout: moving from spots to spotImages
+96928b7ac923a256e45298b617f09acf7c3f9870 238b703794840f2905b4b30cb83f9d1a4f9ea15d Lane17027 <lanenichols17027@gmail.com> 1698632721 -0600	commit: created seeder for spotImages
+238b703794840f2905b4b30cb83f9d1a4f9ea15d d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698632754 -0600	checkout: moving from spotImages to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc ddc1d103bcde5b042c40fd74aac0385ff10dde0b Lane17027 <lanenichols17027@gmail.com> 1698632766 -0600	checkout: moving from dev to users
+ddc1d103bcde5b042c40fd74aac0385ff10dde0b d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698632779 -0600	checkout: moving from users to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 691390c2b3f86eaa2f588bd9dbb402a93e5f8aa8 Lane17027 <lanenichols17027@gmail.com> 1698632792 -0600	checkout: moving from dev to reviews
+691390c2b3f86eaa2f588bd9dbb402a93e5f8aa8 dc1db6e7186b9a0bfd32ae8baedaf588520d3f0c Lane17027 <lanenichols17027@gmail.com> 1698633024 -0600	commit: created seeder for reviews
+dc1db6e7186b9a0bfd32ae8baedaf588520d3f0c d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698633033 -0600	checkout: moving from reviews to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 2ac058076d07f8bc61de5e96f4cb91482a41420e Lane17027 <lanenichols17027@gmail.com> 1698633098 -0600	checkout: moving from dev to reviewImages
+2ac058076d07f8bc61de5e96f4cb91482a41420e 13c49545fd8ed89075f4c0efb60e8d81cdd9a237 Lane17027 <lanenichols17027@gmail.com> 1698633644 -0600	commit: created seeder for reviewImages
+13c49545fd8ed89075f4c0efb60e8d81cdd9a237 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698633648 -0600	checkout: moving from reviewImages to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 6a77cb554332fd86b034adb62d0989822458bfa9 Lane17027 <lanenichols17027@gmail.com> 1698633674 -0600	checkout: moving from dev to bookings
+6a77cb554332fd86b034adb62d0989822458bfa9 787dd7fb81a4c55c997fbdf52214ec1f013ef8cb Lane17027 <lanenichols17027@gmail.com> 1698633827 -0600	commit: created seeder for bookings
+787dd7fb81a4c55c997fbdf52214ec1f013ef8cb d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698633830 -0600	checkout: moving from bookings to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698635119 -0600	checkout: moving from dev to main
+d695157b0e35ad04d5d9610769d5e8d485a051fc d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698636123 -0600	checkout: moving from main to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 8482923615ee12180ced199149fc923f06c34594 Lane17027 <lanenichols17027@gmail.com> 1698636527 -0600	checkout: moving from dev to spots
+8482923615ee12180ced199149fc923f06c34594 8f2f84b6f4adcf8e1b066a8575bd7efac351cfe5 Lane17027 <lanenichols17027@gmail.com> 1698638764 -0600	commit: completed seeders test cases for spots
+8f2f84b6f4adcf8e1b066a8575bd7efac351cfe5 22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 Lane17027 <lanenichols17027@gmail.com> 1698639147 -0600	commit: fixed the downtable for seeders
+22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698639154 -0600	checkout: moving from spots to dev
+d695157b0e35ad04d5d9610769d5e8d485a051fc 22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 Lane17027 <lanenichols17027@gmail.com> 1698639816 -0600	merge spots: Fast-forward
+22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698640033 -0600	checkout: moving from dev to main
+d695157b0e35ad04d5d9610769d5e8d485a051fc 22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 Lane17027 <lanenichols17027@gmail.com> 1698640226 -0600	checkout: moving from main to dev
+22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 95b15b485d4234d63113a21f418aab2f08d77ed4 Lane17027 <lanenichols17027@gmail.com> 1698640269 -0600	commit: added firstName and lastName to post Route safeUser in sessions router
+95b15b485d4234d63113a21f418aab2f08d77ed4 d695157b0e35ad04d5d9610769d5e8d485a051fc Lane17027 <lanenichols17027@gmail.com> 1698640285 -0600	checkout: moving from dev to main
+d695157b0e35ad04d5d9610769d5e8d485a051fc 95b15b485d4234d63113a21f418aab2f08d77ed4 Lane17027 <lanenichols17027@gmail.com> 1698640292 -0600	merge dev: Fast-forward
+95b15b485d4234d63113a21f418aab2f08d77ed4 95b15b485d4234d63113a21f418aab2f08d77ed4 Lane17027 <lanenichols17027@gmail.com> 1698640521 -0600	checkout: moving from main to dev
+95b15b485d4234d63113a21f418aab2f08d77ed4 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698643358 -0600	commit: fixed seeders/migrations options object and bulkCreate for Spots table
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d 22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 Lane17027 <lanenichols17027@gmail.com> 1698643463 -0600	checkout: moving from dev to spots
+22292bb74d04cb1dad9b7fd60bed7d4967f51ae8 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698643476 -0600	merge dev: Fast-forward
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698643534 -0600	checkout: moving from spots to dev
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d 95b15b485d4234d63113a21f418aab2f08d77ed4 Lane17027 <lanenichols17027@gmail.com> 1698643548 -0600	checkout: moving from dev to main
+95b15b485d4234d63113a21f418aab2f08d77ed4 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698643561 -0600	merge dev: Fast-forward
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698644156 -0600	checkout: moving from main to spots
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d 6c24214e75cdb7dffb24f7e644b1233b280d30bd Lane17027 <lanenichols17027@gmail.com> 1698644182 -0600	commit: got rid of cyrpess type bullshit
+6c24214e75cdb7dffb24f7e644b1233b280d30bd 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698644196 -0600	checkout: moving from spots to dev
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d b10612085511a3e494ad2a94f734c17776d5cfab Lane17027 <lanenichols17027@gmail.com> 1698644225 -0600	commit: fixing cypress on dev
+b10612085511a3e494ad2a94f734c17776d5cfab 6c24214e75cdb7dffb24f7e644b1233b280d30bd Lane17027 <lanenichols17027@gmail.com> 1698644348 -0600	checkout: moving from dev to spots
+6c24214e75cdb7dffb24f7e644b1233b280d30bd b10612085511a3e494ad2a94f734c17776d5cfab Lane17027 <lanenichols17027@gmail.com> 1698644361 -0600	checkout: moving from spots to dev
+b10612085511a3e494ad2a94f734c17776d5cfab 694ddefa0c20a8fefac4b3cfd175b473b9b65b3d Lane17027 <lanenichols17027@gmail.com> 1698644375 -0600	checkout: moving from dev to main
+694ddefa0c20a8fefac4b3cfd175b473b9b65b3d f55592a808f8ca60c1ea84063df356b2a9f1be79 Lane17027 <lanenichols17027@gmail.com> 1698644424 -0600	commit: fixing cypress on main
+f55592a808f8ca60c1ea84063df356b2a9f1be79 b10612085511a3e494ad2a94f734c17776d5cfab Lane17027 <lanenichols17027@gmail.com> 1698644463 -0600	checkout: moving from main to dev
+b10612085511a3e494ad2a94f734c17776d5cfab f55592a808f8ca60c1ea84063df356b2a9f1be79 Lane17027 <lanenichols17027@gmail.com> 1698644468 -0600	checkout: moving from dev to main
+f55592a808f8ca60c1ea84063df356b2a9f1be79 b10612085511a3e494ad2a94f734c17776d5cfab Lane17027 <lanenichols17027@gmail.com> 1698644476 -0600	checkout: moving from main to dev
+b10612085511a3e494ad2a94f734c17776d5cfab f55592a808f8ca60c1ea84063df356b2a9f1be79 Lane17027 <lanenichols17027@gmail.com> 1698644487 -0600	checkout: moving from dev to main
+f55592a808f8ca60c1ea84063df356b2a9f1be79 b10612085511a3e494ad2a94f734c17776d5cfab Lane17027 <lanenichols17027@gmail.com> 1698644624 -0600	checkout: moving from main to dev
+b10612085511a3e494ad2a94f734c17776d5cfab dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 Lane17027 <lanenichols17027@gmail.com> 1698644684 -0600	commit: fixing down function of user seeders
+dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 f55592a808f8ca60c1ea84063df356b2a9f1be79 Lane17027 <lanenichols17027@gmail.com> 1698644697 -0600	checkout: moving from dev to main
+f55592a808f8ca60c1ea84063df356b2a9f1be79 dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 Lane17027 <lanenichols17027@gmail.com> 1698644716 -0600	checkout: moving from main to dev
+dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 f55592a808f8ca60c1ea84063df356b2a9f1be79 Lane17027 <lanenichols17027@gmail.com> 1698644729 -0600	checkout: moving from dev to main
+f55592a808f8ca60c1ea84063df356b2a9f1be79 b3cac68b223c7fdcb69169f243303e8c85639eae Lane17027 <lanenichols17027@gmail.com> 1698644812 -0600	commit: fixing down function of user seeder
+b3cac68b223c7fdcb69169f243303e8c85639eae dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 Lane17027 <lanenichols17027@gmail.com> 1698644844 -0600	checkout: moving from main to dev
+dba4dd6dc724ecacfea7fc2b1bb724111b03e7f1 b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 Lane17027 <lanenichols17027@gmail.com> 1698645179 -0600	commit: blah
+b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 b3cac68b223c7fdcb69169f243303e8c85639eae Lane17027 <lanenichols17027@gmail.com> 1698645187 -0600	checkout: moving from dev to main
+b3cac68b223c7fdcb69169f243303e8c85639eae a3d97387ccef9b5e59c707b09776af26d1320f60 Lane17027 <lanenichols17027@gmail.com> 1698645211 -0600	commit: commenting out refernces on create spot
+a3d97387ccef9b5e59c707b09776af26d1320f60 6c24214e75cdb7dffb24f7e644b1233b280d30bd Lane17027 <lanenichols17027@gmail.com> 1698646603 -0600	checkout: moving from main to spots
+6c24214e75cdb7dffb24f7e644b1233b280d30bd e44d76fae48cd5836fabcc391309eef5da2f4fcf Lane17027 <lanenichols17027@gmail.com> 1698646623 -0600	commit: commenting references out on spot
+e44d76fae48cd5836fabcc391309eef5da2f4fcf b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 Lane17027 <lanenichols17027@gmail.com> 1698646633 -0600	checkout: moving from spots to dev
+b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 238b703794840f2905b4b30cb83f9d1a4f9ea15d Lane17027 <lanenichols17027@gmail.com> 1698687885 -0600	checkout: moving from dev to spotImages
+238b703794840f2905b4b30cb83f9d1a4f9ea15d b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 Lane17027 <lanenichols17027@gmail.com> 1698688892 -0600	checkout: moving from spotImages to dev
+b7f4d203e99b8cafaafb6a3645da7a21a92a9ea4 1879bda5fa9c0ecfe2ff6ff4c504e366b356f76e Lane17027 <lanenichols17027@gmail.com> 1698689011 -0600	commit (merge): merging spot image to dev
+1879bda5fa9c0ecfe2ff6ff4c504e366b356f76e 1ac1d7fa8947fb6a48a36c9353a46aa50b699437 Lane17027 <lanenichols17027@gmail.com> 1698696162 -0600	commit: filling out spot seeders
+1ac1d7fa8947fb6a48a36c9353a46aa50b699437 a3d97387ccef9b5e59c707b09776af26d1320f60 Lane17027 <lanenichols17027@gmail.com> 1698696167 -0600	checkout: moving from dev to main
+a3d97387ccef9b5e59c707b09776af26d1320f60 1ac1d7fa8947fb6a48a36c9353a46aa50b699437 Lane17027 <lanenichols17027@gmail.com> 1698696182 -0600	checkout: moving from main to dev
+1ac1d7fa8947fb6a48a36c9353a46aa50b699437 a3d97387ccef9b5e59c707b09776af26d1320f60 Lane17027 <lanenichols17027@gmail.com> 1698696195 -0600	checkout: moving from dev to main
+a3d97387ccef9b5e59c707b09776af26d1320f60 3d5163d4705e550e1501a05a39314ccc082f51e5 Lane17027 <lanenichols17027@gmail.com> 1698696246 -0600	commit (merge): adding spotImages files
+3d5163d4705e550e1501a05a39314ccc082f51e5 514cd5cde94fa17806e03abc28c466378e814745 Lane17027 <lanenichols17027@gmail.com> 1698696617 -0600	commit: fixing ownder typo
+514cd5cde94fa17806e03abc28c466378e814745 50475c2c88ed947f0f8c797fbf7651be29271fee Lane17027 <lanenichols17027@gmail.com> 1698696799 -0600	commit: fixing the down require to singular table name
+50475c2c88ed947f0f8c797fbf7651be29271fee 1ac1d7fa8947fb6a48a36c9353a46aa50b699437 Lane17027 <lanenichols17027@gmail.com> 1698696932 -0600	checkout: moving from main to dev
+1ac1d7fa8947fb6a48a36c9353a46aa50b699437 cffe6b4b634a41fc00600bc90919c1ed3cff5b18 Lane17027 <lanenichols17027@gmail.com> 1698696994 -0600	commit: fixing plural/ownder on dev
+cffe6b4b634a41fc00600bc90919c1ed3cff5b18 dc1db6e7186b9a0bfd32ae8baedaf588520d3f0c Lane17027 <lanenichols17027@gmail.com> 1698697048 -0600	checkout: moving from dev to reviews
+dc1db6e7186b9a0bfd32ae8baedaf588520d3f0c cffe6b4b634a41fc00600bc90919c1ed3cff5b18 Lane17027 <lanenichols17027@gmail.com> 1698697057 -0600	checkout: moving from reviews to dev
+cffe6b4b634a41fc00600bc90919c1ed3cff5b18 d4682dc224ea32420b67fdc24a2277240e39da06 Lane17027 <lanenichols17027@gmail.com> 1698697119 -0600	commit (merge): merging reviews to dev
+d4682dc224ea32420b67fdc24a2277240e39da06 8bd13e46377257289cef82740905ffac05ac5d77 Lane17027 <lanenichols17027@gmail.com> 1698698495 -0600	commit: hopefully completed all files for reviews
+8bd13e46377257289cef82740905ffac05ac5d77 50475c2c88ed947f0f8c797fbf7651be29271fee Lane17027 <lanenichols17027@gmail.com> 1698698502 -0600	checkout: moving from dev to main
+50475c2c88ed947f0f8c797fbf7651be29271fee a02ea1d9b8e5145f10bf131a6b52dd21aa349e87 Lane17027 <lanenichols17027@gmail.com> 1698698642 -0600	commit (merge): hopefully completing reviews files
+a02ea1d9b8e5145f10bf131a6b52dd21aa349e87 8bd13e46377257289cef82740905ffac05ac5d77 Lane17027 <lanenichols17027@gmail.com> 1698699242 -0600	checkout: moving from main to dev
+8bd13e46377257289cef82740905ffac05ac5d77 13c49545fd8ed89075f4c0efb60e8d81cdd9a237 Lane17027 <lanenichols17027@gmail.com> 1698699502 -0600	checkout: moving from dev to reviewImages
+13c49545fd8ed89075f4c0efb60e8d81cdd9a237 33cb66c5266a019f080d568a90c35075f349e332 Lane17027 <lanenichols17027@gmail.com> 1698700666 -0600	commit: fixed options stuff with seeders on reviewImages
+33cb66c5266a019f080d568a90c35075f349e332 8bd13e46377257289cef82740905ffac05ac5d77 Lane17027 <lanenichols17027@gmail.com> 1698700671 -0600	checkout: moving from reviewImages to dev
+8bd13e46377257289cef82740905ffac05ac5d77 afbc6163fd60be7ee5ffde76e0336a895a6e15ed Lane17027 <lanenichols17027@gmail.com> 1698700721 -0600	commit (merge): merging reviewImages to dev
+afbc6163fd60be7ee5ffde76e0336a895a6e15ed a02ea1d9b8e5145f10bf131a6b52dd21aa349e87 Lane17027 <lanenichols17027@gmail.com> 1698700739 -0600	checkout: moving from dev to main
+a02ea1d9b8e5145f10bf131a6b52dd21aa349e87 e521cd6c5c49735f13a61e59333ee847fcc236a1 Lane17027 <lanenichols17027@gmail.com> 1698701059 -0600	commit (merge): merging reviewImages to main
+e521cd6c5c49735f13a61e59333ee847fcc236a1 afbc6163fd60be7ee5ffde76e0336a895a6e15ed Lane17027 <lanenichols17027@gmail.com> 1698701334 -0600	checkout: moving from main to dev
+afbc6163fd60be7ee5ffde76e0336a895a6e15ed 787dd7fb81a4c55c997fbdf52214ec1f013ef8cb Lane17027 <lanenichols17027@gmail.com> 1698701800 -0600	checkout: moving from dev to bookings
+787dd7fb81a4c55c997fbdf52214ec1f013ef8cb bc5f42730dd412a4ee8ea53e7c60581fbd02e10d Lane17027 <lanenichols17027@gmail.com> 1698703767 -0600	commit: completed bookings files
+bc5f42730dd412a4ee8ea53e7c60581fbd02e10d afbc6163fd60be7ee5ffde76e0336a895a6e15ed Lane17027 <lanenichols17027@gmail.com> 1698703776 -0600	checkout: moving from bookings to dev
+afbc6163fd60be7ee5ffde76e0336a895a6e15ed eb597f8c261f7e844638131f99d4e8385903899d Lane17027 <lanenichols17027@gmail.com> 1698703861 -0600	commit (merge): merging bookings to dev
+eb597f8c261f7e844638131f99d4e8385903899d e521cd6c5c49735f13a61e59333ee847fcc236a1 Lane17027 <lanenichols17027@gmail.com> 1698704105 -0600	checkout: moving from dev to main
+e521cd6c5c49735f13a61e59333ee847fcc236a1 9f48f96219ef3360775b21ea97f9ac0d5cd75332 Lane17027 <lanenichols17027@gmail.com> 1698704135 -0600	commit (merge): merging bookings to main
+9f48f96219ef3360775b21ea97f9ac0d5cd75332 69b61f43ce22d087b5a1d8984a984210f9853e71 Lane17027 <lanenichols17027@gmail.com> 1698705743 -0600	commit: removing this.enddate
+69b61f43ce22d087b5a1d8984a984210f9853e71 f8338a314257f4659cd66a3cdedf525e1e5ea58f Lane17027 <lanenichols17027@gmail.com> 1698705821 -0600	commit: adding back this
+f8338a314257f4659cd66a3cdedf525e1e5ea58f 7f61c73799a06186939c59d7b2d302f942283903 Lane17027 <lanenichols17027@gmail.com> 1698706501 -0600	commit: trying a new validator for start and end date
+7f61c73799a06186939c59d7b2d302f942283903 eb597f8c261f7e844638131f99d4e8385903899d Lane17027 <lanenichols17027@gmail.com> 1698706714 -0600	checkout: moving from main to dev
+eb597f8c261f7e844638131f99d4e8385903899d e6806af3d091d7d5c67a967a040cb0ee5a718e46 Lane17027 <lanenichols17027@gmail.com> 1698706762 -0600	commit: fixing the start and end date validoators on dev
+e6806af3d091d7d5c67a967a040cb0ee5a718e46 e6059a397615576fa8abe17690871085630e8d77 Lane17027 <lanenichols17027@gmail.com> 1698707110 -0600	commit: added isDate validator
+e6059a397615576fa8abe17690871085630e8d77 7f61c73799a06186939c59d7b2d302f942283903 Lane17027 <lanenichols17027@gmail.com> 1698707113 -0600	checkout: moving from dev to main
+7f61c73799a06186939c59d7b2d302f942283903 e72f61f1eb2e1837ec2c3d901467d7105bb123e9 Lane17027 <lanenichols17027@gmail.com> 1698707327 -0600	commit (merge): merging dev with isdate validator
+e72f61f1eb2e1837ec2c3d901467d7105bb123e9 e6059a397615576fa8abe17690871085630e8d77 Lane17027 <lanenichols17027@gmail.com> 1698708455 -0600	checkout: moving from main to dev
+e6059a397615576fa8abe17690871085630e8d77 da535d2f99d4495c1ffe4391b6873d2d9e416e79 Lane17027 <lanenichols17027@gmail.com> 1698726556 -0600	commit: added the associations for User
+da535d2f99d4495c1ffe4391b6873d2d9e416e79 b7714281aa8177c55ce5a1f05a2f802500f7d53d Lane17027 <lanenichols17027@gmail.com> 1698727075 -0600	commit: more user associations
+b7714281aa8177c55ce5a1f05a2f802500f7d53d e72f61f1eb2e1837ec2c3d901467d7105bb123e9 Lane17027 <lanenichols17027@gmail.com> 1698727091 -0600	checkout: moving from dev to main
+e72f61f1eb2e1837ec2c3d901467d7105bb123e9 15bed6790f4fad16bdc4286c9433458426d67947 Lane17027 <lanenichols17027@gmail.com> 1698727126 -0600	commit (merge): merging dev and user associations to main
+15bed6790f4fad16bdc4286c9433458426d67947 b7714281aa8177c55ce5a1f05a2f802500f7d53d Lane17027 <lanenichols17027@gmail.com> 1698727499 -0600	checkout: moving from main to dev
+b7714281aa8177c55ce5a1f05a2f802500f7d53d 314d3b3157287fa53df5882f50a12195f45bf13c Lane17027 <lanenichols17027@gmail.com> 1698729629 -0600	commit: all the associations hopefully
+314d3b3157287fa53df5882f50a12195f45bf13c 15bed6790f4fad16bdc4286c9433458426d67947 Lane17027 <lanenichols17027@gmail.com> 1698729652 -0600	checkout: moving from dev to main
+15bed6790f4fad16bdc4286c9433458426d67947 19a97f9d09d27fce65f68c303f2552dc21ffd47b Lane17027 <lanenichols17027@gmail.com> 1698729690 -0600	commit (merge): adding all the assocaitons from dev to main
+19a97f9d09d27fce65f68c303f2552dc21ffd47b 4022379d117c3312493caff19263142f986d6a06 Lane17027 <lanenichols17027@gmail.com> 1698730139 -0600	commit: fixing references object
+4022379d117c3312493caff19263142f986d6a06 314d3b3157287fa53df5882f50a12195f45bf13c Lane17027 <lanenichols17027@gmail.com> 1698730151 -0600	checkout: moving from main to dev
+314d3b3157287fa53df5882f50a12195f45bf13c 4022379d117c3312493caff19263142f986d6a06 Lane17027 <lanenichols17027@gmail.com> 1698730194 -0600	checkout: moving from dev to main
+4022379d117c3312493caff19263142f986d6a06 314d3b3157287fa53df5882f50a12195f45bf13c Lane17027 <lanenichols17027@gmail.com> 1698730212 -0600	checkout: moving from main to dev
+314d3b3157287fa53df5882f50a12195f45bf13c 8589853b6382f25ac44e31ef7391aca1701055f8 Lane17027 <lanenichols17027@gmail.com> 1698730426 -0600	commit: more migration fixes
+8589853b6382f25ac44e31ef7391aca1701055f8 4022379d117c3312493caff19263142f986d6a06 Lane17027 <lanenichols17027@gmail.com> 1698730439 -0600	checkout: moving from dev to main
+4022379d117c3312493caff19263142f986d6a06 5e65ae430b6bc1dea334a5d375dc560427835662 Lane17027 <lanenichols17027@gmail.com> 1698730468 -0600	commit (merge): hopefullyl ast commit for associations
+5e65ae430b6bc1dea334a5d375dc560427835662 8589853b6382f25ac44e31ef7391aca1701055f8 Lane17027 <lanenichols17027@gmail.com> 1698730667 -0600	checkout: moving from main to dev
+8589853b6382f25ac44e31ef7391aca1701055f8 cb61ad92387d5f3e4a6471b30927ff27d446260c Lane17027 <lanenichols17027@gmail.com> 1698774345 -0600	commit: added all skeleton routers
+cb61ad92387d5f3e4a6471b30927ff27d446260c 5e65ae430b6bc1dea334a5d375dc560427835662 Lane17027 <lanenichols17027@gmail.com> 1698774350 -0600	checkout: moving from dev to main
+5e65ae430b6bc1dea334a5d375dc560427835662 ded0ed0f710358154c4f5b166ce016f0411e1316 Lane17027 <lanenichols17027@gmail.com> 1698774405 -0600	commit (merge): adding skeleton routes to main
+ded0ed0f710358154c4f5b166ce016f0411e1316 cb61ad92387d5f3e4a6471b30927ff27d446260c Lane17027 <lanenichols17027@gmail.com> 1698775087 -0600	checkout: moving from main to dev
+cb61ad92387d5f3e4a6471b30927ff27d446260c 3238ada7d5b9993b10354ca2cead7a17c3f47435 Lane17027 <lanenichols17027@gmail.com> 1698790159 -0600	commit: worked on Get all Reviews of the Current User and Add an Image to a Review based on the Reviews id
+3238ada7d5b9993b10354ca2cead7a17c3f47435 ded0ed0f710358154c4f5b166ce016f0411e1316 Lane17027 <lanenichols17027@gmail.com> 1698790164 -0600	checkout: moving from dev to main
+ded0ed0f710358154c4f5b166ce016f0411e1316 9230b31af64b1832dc747a56aa17fd3b2d229a99 Lane17027 <lanenichols17027@gmail.com> 1698790235 -0600	commit (merge): merging dev with work done on reviews router
+9230b31af64b1832dc747a56aa17fd3b2d229a99 3238ada7d5b9993b10354ca2cead7a17c3f47435 Lane17027 <lanenichols17027@gmail.com> 1698790597 -0600	checkout: moving from main to dev
+3238ada7d5b9993b10354ca2cead7a17c3f47435 bc35dff08294c78cad7242b301315f6c592b0675 Lane17027 <lanenichols17027@gmail.com> 1698819391 -0600	commit: mother of god I completed the Get all Spots owned by the Current User route
+bc35dff08294c78cad7242b301315f6c592b0675 3177a1ed0cccc0673511671e4c3f12346b52172d Lane17027 <lanenichols17027@gmail.com> 1698857797 -0600	commit: almost finished review
+3177a1ed0cccc0673511671e4c3f12346b52172d 16d03130a72b43c70d93df85aa03cda432a5ab37 Lane17027 <lanenichols17027@gmail.com> 1698857817 -0600	commit: idk
+16d03130a72b43c70d93df85aa03cda432a5ab37 cbc9e8c5139053358c5c3f0bd0412dcdede750e4 Lane17027 <lanenichols17027@gmail.com> 1698862181 -0600	commit: refactored get all current users spots
+cbc9e8c5139053358c5c3f0bd0412dcdede750e4 9230b31af64b1832dc747a56aa17fd3b2d229a99 Lane17027 <lanenichols17027@gmail.com> 1698862188 -0600	checkout: moving from dev to main
+9230b31af64b1832dc747a56aa17fd3b2d229a99 32944ae8d831dc6b0882b6bdb2d7a222a3ae9c1a Lane17027 <lanenichols17027@gmail.com> 1698862241 -0600	commit (merge): merging dev to main with fixes to review routes and get all current user spots route
+32944ae8d831dc6b0882b6bdb2d7a222a3ae9c1a cbc9e8c5139053358c5c3f0bd0412dcdede750e4 Lane17027 <lanenichols17027@gmail.com> 1698863043 -0600	checkout: moving from main to dev
+cbc9e8c5139053358c5c3f0bd0412dcdede750e4 3f61b5233cc57200b98dbab5a7f1d1daf0e9bcc0 Lane17027 <lanenichols17027@gmail.com> 1698864573 -0600	commit: more changes to reviews
+3f61b5233cc57200b98dbab5a7f1d1daf0e9bcc0 b23a51f90b7b04137187c1e775513445ae7d5912 Lane17027 <lanenichols17027@gmail.com> 1698879144 -0600	commit: just workin on spots
+b23a51f90b7b04137187c1e775513445ae7d5912 7152bd5072ab9893c774231a58144acef83819dc Lane17027 <lanenichols17027@gmail.com> 1698895399 -0600	commit: more spots route stuff
+7152bd5072ab9893c774231a58144acef83819dc 2178ae88b811838d5d1f233bc61daf36e2460614 Lane17027 <lanenichols17027@gmail.com> 1698897293 -0600	commit: finsihed edit a spot
+2178ae88b811838d5d1f233bc61daf36e2460614 80f01a950ce8299a4d19eacdf9f66a97112ec336 Lane17027 <lanenichols17027@gmail.com> 1698902240 -0600	commit: more spots finished
+80f01a950ce8299a4d19eacdf9f66a97112ec336 32944ae8d831dc6b0882b6bdb2d7a222a3ae9c1a Lane17027 <lanenichols17027@gmail.com> 1698902256 -0600	checkout: moving from dev to main
+32944ae8d831dc6b0882b6bdb2d7a222a3ae9c1a c3f314436c1e12cb3f82448c2303cc5865d079e7 Lane17027 <lanenichols17027@gmail.com> 1698902326 -0600	commit (merge): merging dev to main
+c3f314436c1e12cb3f82448c2303cc5865d079e7 04792abe26449bbe2cfd987202437811bef2ea5f Lane17027 <lanenichols17027@gmail.com> 1698949452 -0600	commit: completed 2 routes on bookings and some on spot
+04792abe26449bbe2cfd987202437811bef2ea5f 80f01a950ce8299a4d19eacdf9f66a97112ec336 Lane17027 <lanenichols17027@gmail.com> 1698949465 -0600	checkout: moving from main to dev
+80f01a950ce8299a4d19eacdf9f66a97112ec336 04792abe26449bbe2cfd987202437811bef2ea5f Lane17027 <lanenichols17027@gmail.com> 1698949475 -0600	merge main: Fast-forward
+04792abe26449bbe2cfd987202437811bef2ea5f 3eedfccdf92537628e03e20b73060acf15e150c6 Lane17027 <lanenichols17027@gmail.com> 1698951752 -0600	commit: Completed Get all Bookings for a Spot based on the Spots id
+3eedfccdf92537628e03e20b73060acf15e150c6 4a7ed95bfbeaf1600fc9c9ddb2f9058a3e1dbbe0 Lane17027 <lanenichols17027@gmail.com> 1698953252 -0600	commit: completed delete a review Image route
+4a7ed95bfbeaf1600fc9c9ddb2f9058a3e1dbbe0 aebf00d0ddc0acae8f3c72d4ceb8521d12aa761e Lane17027 <lanenichols17027@gmail.com> 1698975916 -0600	commit: hopefully finished!!!!!!!!!
